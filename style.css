@@ -1,0 +1,50 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.c-item{
+    height: 500px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+.lsb{
+    padding: 3px;
+    margin: 3px;
+}
+.card{
+    height: 200px;
+}
+.cimg{
+    height: 100%;
+    object-fit: cover;
+    max-width: 40px;
+}
+.aimg{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+.rating i {
+      color: #ffc107;
+}
+.pimg{
+    width: 100%;
+    object-fit: cover;
+}
+.kart{
+    width: 45%;
+    justify-content: space-evenly;
+    margin-left: 15px;
+}
+.card-text {
+  line-height: 1.2em;  /* adjust if needed */
+  height: 2.4em;       /* 2 lines x line-height */
+  overflow: hidden;
+  white-space: normal;
+}
+.himg{
+    height: 100%;
+    object-fit: cover
+}
